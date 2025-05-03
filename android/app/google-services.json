@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510211510175",
+    "project_id": "adams-prayer",
+    "storage_bucket": "adams-prayer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510211510175:android:12a85c84b7c6894810f7aa",
+        "android_client_info": {
+          "package_name": "adams_prayer.app.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI17f1cbVCiiS5IpWm5cyt92E35uGLmcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
